@@ -140,7 +140,7 @@ Essa é uma solução para o [Desafio da página de receitas do Frontend Mentor]
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Overview
+## Visão Geral
 
 ### Capturas de tela
 
